@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: b61af6cb1eefb428aa11a819b546cfb5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_0
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1782
+        width: 154
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c315917271644a93ae42fa7c7b5384a
+      internalID: 959406488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1858
+        width: 212
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632fbc87001b439bb27a7820345c91e
+      internalID: 1027463291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1907
+        width: 91
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4270dc64c6b456596473baa5690f72
+      internalID: -1461677392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2019
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8208ba44fb9145f0949ad09363740cf
+      internalID: -1309905759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2021
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc84075fa8640328d402e409bc9774
+      internalID: -365347973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1994
+        width: 42
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f52a51417f74ca083bdff753fb1b27
+      internalID: -1994258873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1783
+        width: 139
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d700c0602d1a404d9772f9bb28f8bc1
+      internalID: -747439513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1901
+        width: 95
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c92dc73da14ba7b73676a76d3c8a8
+      internalID: 1206652175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_8
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1913
+        width: 73
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882cada1244744dc0bda4d2468dde6f0
+      internalID: 469735532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_9
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1973
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df1e68fa4ce4b7c80007a12ce3c94f
+      internalID: 1211090627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1992
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ad60cb7ab74f9ba8038ff082e50b1
+      internalID: -641222665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1972
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2bd3dd0f874329b4b6c9d0791f1eb
+      internalID: 625631595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1784
+        width: 159
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6efb1f039e04d018f5534b459cd33a
+      internalID: -9244806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1936
+        width: 25
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671d87c7de54474abdeb552c8377991
+      internalID: 434614914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1874
+        width: 87
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0edadc55e349f69e9a0a915bd47be
+      internalID: -277377144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1970
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85d7572be394a589bfc2401a63672c
+      internalID: -409698765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_16
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1862
+        width: 153
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48242558db4472fb384360f91a8446
+      internalID: 830146771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1922
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491af5357621841cd9f3e4fef03d1ff4
+      internalID: 446239453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1946
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656b2d3f4b4b45388fc144c0f5cb527
+      internalID: 637836899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1939
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066a95b171104abaa053a5b268e8489
+      internalID: 1064191984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_20
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1931
+        width: 10
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c1820813a249dfb64abe435ac72b7
+      internalID: -1369839997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_21
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1915
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd0bd7ba2534424b86dd22d664876f
+      internalID: -733579175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_22
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1924
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d1147533e746a19ce338e0da588db
+      internalID: -1491996330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_23
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1880
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f855d4c76e644f4b37ce6c06fe0937
+      internalID: 268821917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_24
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1877
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498157edced14891b8afea2342d019c
+      internalID: 1399874506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_25
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1886
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18663820e56f14139bdffeb15ae1a20e
+      internalID: -53809133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_26
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1891
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a94467a797f42bb9e05da1da6f758e
+      internalID: -524000288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_27
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1875
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839597aa7edf4d5287bd0ec65bbd59a
+      internalID: -925949384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_28
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1895
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e642bc8b2b34bdb805fe4435ae8ab6
+      internalID: -617556617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_29
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1886
+        width: 9
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba84efbae3cba461f8ea64ad6b8f1380
+      internalID: 1884239388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_30
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1869
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b9c01e4d8a460cb9c6b6965d293de
+      internalID: -264708507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_31
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1868
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311c9bd9c12b4fbe97f4ba00737b390
+      internalID: 1547170640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_32
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1851
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582164a64198342ad98c4afeb848cb90
+      internalID: -2087872169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_33
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1862
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6a3d82b775348669abb01552eeb624
+      internalID: -1118040672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_34
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1855
+        width: 26
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1dc53640b445a990552a0f1b9e436
+      internalID: 1828899057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_35
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1853
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b54ef4c51241bcaefd043d1cbc316
+      internalID: 115041581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_36
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1854
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b51d80beec2f4966b87d3d34c8f0d65
+      internalID: 726067173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_37
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1797
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a5a8d81c044ebbbd7750db79b7f67
+      internalID: 778771377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_38
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1831
+        width: 51
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b956e47ba64adc9d97af0e371cef8
+      internalID: -282113857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_39
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1854
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ece6502089a43beb1bb0bf89b6e2eb
+      internalID: -2046968877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_40
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1828
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec7dcaf797644418623340f79378fe
+      internalID: -638745627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_41
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1823
+        width: 34
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba520ff42140491986a82dd42a14824
+      internalID: -724441925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_42
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1831
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a0a0c335454d3bb5bd316dfea4b60
+      internalID: -861197736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1735
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d28e25cbbd14c7498f9b304b56a73a
+      internalID: -882198030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1719
+        width: 60
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0981c7bf72254bca9855b1ff993ba43
+      internalID: 629783164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1710
+        width: 58
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aace0c109c334887914706314978567
+      internalID: 545412130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_46
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1662
+        width: 70
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a893b060b2a042a8af8f06fc57a61a6
+      internalID: -409163324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1641
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869fa0266a99c472191a48a9c5c3e239
+      internalID: 1222331911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_48
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1668
+        width: 8
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707c0c60b9f0341d8b458b7014b2e33d
+      internalID: -1219479847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1675
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99854b1d4694c4cab881a8aede95789d
+      internalID: 1279251843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_50
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1682
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f69d32603a347b08399370b1d6f948
+      internalID: 506357853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_51
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1694
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc472b274b8ee4a28b52fb65303e554e
+      internalID: -1852887848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_52
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1678
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a01e3896a748b8aefb92058637e73
+      internalID: -1669081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_53
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1647
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5930e648d4c641a2a341152d7f32770
+      internalID: -520070499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_54
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1650
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc8d6669d7c465e90f350581993299
+      internalID: -170698060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1581
+        width: 152
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c618f6082a94c26907ad08356eee27
+      internalID: 1210469299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1636
+        width: 8
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8110920e84934e3497af3bb249829ee
+      internalID: 657457572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1647
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c4b7969d0f49d29f7de86ee72bcec
+      internalID: -261683674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1571
+        width: 146
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c79a30844f495aab3d85731c356c6
+      internalID: -2093680943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1643
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f413353eb528490583af64eef6e7c60
+      internalID: 1731679982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_60
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1651
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f066a850944e43968542fda02e8d0
+      internalID: 1385270932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_61
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1641
+        width: 9
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805e94a3062e4135bc23513e13b8c92
+      internalID: 1765422071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_62
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1645
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb116bf020643ed8e95946eb9224be
+      internalID: 231863965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_63
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1661
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff19b129f4de401c92573029fcfbd24
+      internalID: 415091711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1637
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4708884334d0d43438e322bc66daf938
+      internalID: -1260882562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_65
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1554
+        width: 145
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff60f8068b37448e8d5ae62998a38c9
+      internalID: -1974768197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_66
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1621
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13801896b211f4d86b3013af32969616
+      internalID: 64357995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_67
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1621
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629a174f927747d5a99b0b531f18b88
+      internalID: 797668264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_68
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1610
+        width: 9
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d32c19a9ebc4c7da27c5bd98fc4cfd
+      internalID: -494909634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_69
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1618
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bc7962267e400598fd3f6b23bdff5
+      internalID: -2107273033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_70
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1612
+        width: 63
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8eaa6ecfc9463aa99f860e62634e3
+      internalID: -932817600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_71
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1614
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498cfc3ba448473ba606aaf42bfc2f2
+      internalID: 198294993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_72
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1598
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a110651fd86e04b9daea88c390ceea12
+      internalID: -2104588945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_73
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1607
+        width: 8
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905de61b2dea84c4aa12170b18bec07d
+      internalID: 657278620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_74
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1578
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ba1ef1fbdf494780c12a08590a914
+      internalID: 1270384821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_75
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1534
+        width: 167
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c21f6e5dc743b9b91b7f3ff048591
+      internalID: 1498841914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_76
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1597
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79270173d3a84177bbd327ab6eb3389
+      internalID: -1039118502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_77
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1518
+        width: 166
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3040cfe7cb04248ab6fe9071e6f159
+      internalID: 1780994155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_78
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1511
+        width: 166
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a135e6cd324665be5169f0db577db
+      internalID: 1246636142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_79
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1583
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e367cae47ed24253be6484e9f28a150
+      internalID: -774418226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_80
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1558
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18affa703790645f6bcebbb72337fbe7
+      internalID: -358435934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_81
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1569
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304f6c4a22204a2dae59f06dcaaf03f
+      internalID: -1397456123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_82
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1583
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f80af0f0ed548e3b22e0fc729e48c6
+      internalID: 456054078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_83
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1514
+        width: 207
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3414772ff924b20876fbdf96828c4d
+      internalID: -1508663739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_84
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1548
+        width: 28
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50212616e74a64a679e9759074bff3b8
+      internalID: 2049131027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_85
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1554
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89547d7e76d64448a025c9e2cdd3d68
+      internalID: -1014646081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1246
+        width: 208
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147cf9d0efa1943c9b80584ba3f67f53
+      internalID: 164645612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_87
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1253
+        width: 214
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57fb5d8c6bf42df954601d84f80b16
+      internalID: 78402577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_88
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1246
+        width: 221
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f68f2f1672a4631ab82b89c77d0aea
+      internalID: -267471488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_89
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1236
+        width: 223
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb328ad90a844707bc56c675ab21cad
+      internalID: 1341175056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_90
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1229
+        width: 223
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673962d1220b4880b8d7a37bd3d11e6
+      internalID: -93247321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_91
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1225
+        width: 225
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341285d09b20740e78353c511bd3b6e1
+      internalID: -540701316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_92
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1225
+        width: 227
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f696ed04369244109b5100845608cf2c
+      internalID: 134801472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_93
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 952
+        width: 227
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74336d76f39f242418a158a8057091d8
+      internalID: -1761423487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_94
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 953
+        width: 227
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7ea224d33e24522b1c40852be9568d
+      internalID: -1545851847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_95
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 952
+        width: 227
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b98e9c7de1148dea453b3af91cb0ab
+      internalID: 260816492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_96
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 951
+        width: 227
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7fb5c22a49640aa94f66c7de4f957c
+      internalID: -1291409930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_97
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 950
+        width: 228
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5d8ae6c4c845df84361eb44bf1c76
+      internalID: -622932581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyDeathSprite_98
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 950
+        width: 227
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd5f26be1da74129954a1c7495b41d6
+      internalID: -368667034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RobotBoyDeathSprite_0: 959406488
+      RobotBoyDeathSprite_1: 1027463291
+      RobotBoyDeathSprite_10: -641222665
+      RobotBoyDeathSprite_11: 625631595
+      RobotBoyDeathSprite_12: -9244806
+      RobotBoyDeathSprite_13: 434614914
+      RobotBoyDeathSprite_14: -277377144
+      RobotBoyDeathSprite_15: -409698765
+      RobotBoyDeathSprite_16: 830146771
+      RobotBoyDeathSprite_17: 446239453
+      RobotBoyDeathSprite_18: 637836899
+      RobotBoyDeathSprite_19: 1064191984
+      RobotBoyDeathSprite_2: -1461677392
+      RobotBoyDeathSprite_20: -1369839997
+      RobotBoyDeathSprite_21: -733579175
+      RobotBoyDeathSprite_22: -1491996330
+      RobotBoyDeathSprite_23: 268821917
+      RobotBoyDeathSprite_24: 1399874506
+      RobotBoyDeathSprite_25: -53809133
+      RobotBoyDeathSprite_26: -524000288
+      RobotBoyDeathSprite_27: -925949384
+      RobotBoyDeathSprite_28: -617556617
+      RobotBoyDeathSprite_29: 1884239388
+      RobotBoyDeathSprite_3: -1309905759
+      RobotBoyDeathSprite_30: -264708507
+      RobotBoyDeathSprite_31: 1547170640
+      RobotBoyDeathSprite_32: -2087872169
+      RobotBoyDeathSprite_33: -1118040672
+      RobotBoyDeathSprite_34: 1828899057
+      RobotBoyDeathSprite_35: 115041581
+      RobotBoyDeathSprite_36: 726067173
+      RobotBoyDeathSprite_37: 778771377
+      RobotBoyDeathSprite_38: -282113857
+      RobotBoyDeathSprite_39: -2046968877
+      RobotBoyDeathSprite_4: -365347973
+      RobotBoyDeathSprite_40: -638745627
+      RobotBoyDeathSprite_41: -724441925
+      RobotBoyDeathSprite_42: -861197736
+      RobotBoyDeathSprite_43: -882198030
+      RobotBoyDeathSprite_44: 629783164
+      RobotBoyDeathSprite_45: 545412130
+      RobotBoyDeathSprite_46: -409163324
+      RobotBoyDeathSprite_47: 1222331911
+      RobotBoyDeathSprite_48: -1219479847
+      RobotBoyDeathSprite_49: 1279251843
+      RobotBoyDeathSprite_5: -1994258873
+      RobotBoyDeathSprite_50: 506357853
+      RobotBoyDeathSprite_51: -1852887848
+      RobotBoyDeathSprite_52: -1669081457
+      RobotBoyDeathSprite_53: -520070499
+      RobotBoyDeathSprite_54: -170698060
+      RobotBoyDeathSprite_55: 1210469299
+      RobotBoyDeathSprite_56: 657457572
+      RobotBoyDeathSprite_57: -261683674
+      RobotBoyDeathSprite_58: -2093680943
+      RobotBoyDeathSprite_59: 1731679982
+      RobotBoyDeathSprite_6: -747439513
+      RobotBoyDeathSprite_60: 1385270932
+      RobotBoyDeathSprite_61: 1765422071
+      RobotBoyDeathSprite_62: 231863965
+      RobotBoyDeathSprite_63: 415091711
+      RobotBoyDeathSprite_64: -1260882562
+      RobotBoyDeathSprite_65: -1974768197
+      RobotBoyDeathSprite_66: 64357995
+      RobotBoyDeathSprite_67: 797668264
+      RobotBoyDeathSprite_68: -494909634
+      RobotBoyDeathSprite_69: -2107273033
+      RobotBoyDeathSprite_7: 1206652175
+      RobotBoyDeathSprite_70: -932817600
+      RobotBoyDeathSprite_71: 198294993
+      RobotBoyDeathSprite_72: -2104588945
+      RobotBoyDeathSprite_73: 657278620
+      RobotBoyDeathSprite_74: 1270384821
+      RobotBoyDeathSprite_75: 1498841914
+      RobotBoyDeathSprite_76: -1039118502
+      RobotBoyDeathSprite_77: 1780994155
+      RobotBoyDeathSprite_78: 1246636142
+      RobotBoyDeathSprite_79: -774418226
+      RobotBoyDeathSprite_8: 469735532
+      RobotBoyDeathSprite_80: -358435934
+      RobotBoyDeathSprite_81: -1397456123
+      RobotBoyDeathSprite_82: 456054078
+      RobotBoyDeathSprite_83: -1508663739
+      RobotBoyDeathSprite_84: 2049131027
+      RobotBoyDeathSprite_85: -1014646081
+      RobotBoyDeathSprite_86: 164645612
+      RobotBoyDeathSprite_87: 78402577
+      RobotBoyDeathSprite_88: -267471488
+      RobotBoyDeathSprite_89: 1341175056
+      RobotBoyDeathSprite_9: 1211090627
+      RobotBoyDeathSprite_90: -93247321
+      RobotBoyDeathSprite_91: -540701316
+      RobotBoyDeathSprite_92: 134801472
+      RobotBoyDeathSprite_93: -1761423487
+      RobotBoyDeathSprite_94: -1545851847
+      RobotBoyDeathSprite_95: 260816492
+      RobotBoyDeathSprite_96: -1291409930
+      RobotBoyDeathSprite_97: -622932581
+      RobotBoyDeathSprite_98: -368667034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
