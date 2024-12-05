@@ -13,12 +13,17 @@ MonoBehaviour:
   m_Name: Rock Grass Platform
   m_EditorClassIdentifier: 
   m_Angles:
-  - m_Start: -180
-    m_End: 180
+  - m_Start: -90
+    m_End: 91
     m_Order: 0
     m_Sprites:
     - {fileID: 21300000, guid: 483ad241ba2ea4ad99a4fc366be7d451, type: 3}
-  m_FillTexture: {fileID: 2800000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
+  - m_Start: -267
+    m_End: -90
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 287f08232e3c644c8a85e9381a3e04c3, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: 32ebd8c95a2bb49858c82d7e0948b828, type: 3}
   m_CornerSprites:
   - m_CornerType: 0
     m_Sprites:
