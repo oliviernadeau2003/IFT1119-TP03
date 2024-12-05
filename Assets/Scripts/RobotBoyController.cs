@@ -7,6 +7,8 @@ public class RobotBoyController : MonoBehaviour
 
     float movement = 0;
     bool isJumping;
+    bool isCrouching;
+    bool isRolling;
     int nbJump;
     Rigidbody2D rigidBody2D;
     SpriteRenderer spriteRenderer;
@@ -41,6 +43,27 @@ public class RobotBoyController : MonoBehaviour
             animator.SetTrigger("Jump");
             nbJump++;
         }
+
+        // Crounching
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            isCrouching = true;
+            animator.SetBool("Crouch", true);
+            speed /= 2;
+        }
+        if (Input.GetKeyUp(KeyCode.S))
+        {
+            isCrouching = false;
+            animator.SetBool("Crouch", false);
+            speed *= 2;
+        }
+
+        // Rolling
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            isRolling = true;
+            animator.SetTrigger("Roll");
+        }
     }
 
     private void FixedUpdate()
@@ -51,6 +74,17 @@ public class RobotBoyController : MonoBehaviour
         {
             rigidBody2D.AddRelativeForce(Vector2.up * impulsion, ForceMode2D.Impulse);
             isJumping = false;
+        }
+        else if (isCrouching)
+        { }
+        else if (isRolling)
+        {
+            if (movement < 0)
+                rigidBody2D.AddRelativeForce(Vector2.left * impulsion, ForceMode2D.Impulse);
+            else
+                rigidBody2D.AddRelativeForce(Vector2.right * impulsion, ForceMode2D.Impulse);
+
+            isRolling = false;
         }
     }
 
