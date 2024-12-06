@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bonus
+  - Malus
+  - Mortem
   layers:
   - Default
   - TransparentFX
@@ -44,9 +47,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Platform
+    uniqueID: 2871360641
+    locked: 0
   - name: Player
     uniqueID: 2296862311
     locked: 0
-  - name: Platform
-    uniqueID: 2871360641
+  - name: UI
+    uniqueID: 1678098171
     locked: 0
