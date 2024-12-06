@@ -11,6 +11,7 @@ public class RobotBoyController : MonoBehaviour
     public AudioClip deathSound;
 
     int hp = 1;
+    int maxHp = 3;
     float movement = 0;
     bool isJumping;
     bool isCrouching;
@@ -107,7 +108,7 @@ public class RobotBoyController : MonoBehaviour
 
     private void CollisionManager(GameObject gameObject)
     {
-        if (gameObject.CompareTag("Bonus"))
+        if (gameObject.CompareTag("Bonus") && hp < maxHp) // Max health 
         {
             hp++;
             HealthDisplayUpdate();
@@ -134,7 +135,6 @@ public class RobotBoyController : MonoBehaviour
 
     private void onDeath()
     {
-        // Play DeathAnimation
         // Stop movement
         speed = 0;
         impulsion = 0;
@@ -151,6 +151,6 @@ public class RobotBoyController : MonoBehaviour
 
     private void Restart()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene("TP3-2_Menu");
     }
 }

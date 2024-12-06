@@ -5,8 +5,7 @@ public class CameraController : MonoBehaviour
     public Transform Player;
     public Transform MapLimiterTopLeft;
     public Transform MapLimiterBottomRight;
-
-    Transform transform;
+    new Transform transform;
 
     float cameraHalfWidth;
     float cameraHalfHeight;
